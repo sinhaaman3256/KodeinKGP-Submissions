@@ -1,0 +1,10 @@
+body{
+    background-color: cornsilk;
+    text-align: center;
+}
+
+#demobutton{
+    background-color: rgb(47, 47, 184);
+    color: aliceblue;
+    border-color: black;
+}
